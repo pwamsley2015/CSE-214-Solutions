@@ -34,6 +34,7 @@ public class Stack<E> {
 	 * @throws IllegalArguementException if {@code initialCapacity} is less than 1.
 	 */
 	public Stack(int initialCapacity) {	 
+		
 		if (initialCapacity < 1)
 			throw new IllegalArgumentException("Cannot Make a Stack with an initial Capacity less than 1."); 
 		

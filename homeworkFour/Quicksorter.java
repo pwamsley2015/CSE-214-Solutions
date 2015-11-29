@@ -1,5 +1,10 @@
 package homeworkFour;
-
+/**
+ * Patrick Wamsley 
+ * 110539155
+ * CSE 214 (2) 
+ * TA: Mingchen Zhang
+ */
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Scanner;
